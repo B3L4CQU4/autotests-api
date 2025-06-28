@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "autotests-api"
+version = "0.1.0"
+description = ""
+authors = ["B3L4CQ4"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
