@@ -6,7 +6,7 @@ authors = ["B3L4CQ4"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.11.13"
+python = "3.12.3"
 
 
 
